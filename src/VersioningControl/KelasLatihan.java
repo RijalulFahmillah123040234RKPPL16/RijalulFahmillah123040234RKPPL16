@@ -7,7 +7,7 @@ public class KelasLatihan {
 		System.out.println("Hello Akhirat");
 		System.out.println("Hello Malakut");
 		System.out.println("Hello jamuljami");
-		System.out.println("Hello hell");
+
 		
 		
 		
