@@ -6,6 +6,7 @@ public class KelasLatihan {
 		System.out.println("Hello Dunia");
 		System.out.println("Hello Akhirat");
 		System.out.println("Hello Malakut");
+		System.out.println("Hello jamuljami");
 		
 		
 		
